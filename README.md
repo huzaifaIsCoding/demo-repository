@@ -1,3 +1,4 @@
 # demo-repository
-This repository is only for learning and practice purposes.
-Aurthor - Muhammad Huzaifa
+This repository is only for learning and practice purposes. 
+</br>
+<h1>Aurthor - Muhammad Huzaifa</h1>
